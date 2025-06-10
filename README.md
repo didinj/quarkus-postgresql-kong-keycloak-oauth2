@@ -1,6 +1,6 @@
 # Building a Secure API with Quarkus, PostgreSQL, Kong, and OAuth2
 
-Read full article [here]().
+Read full article [here](https://www.djamware.com/post/6847b1731eca343dd7615cd3/building-a-secure-api-with-quarkus-postgresql-kong-and-oauth2).
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
